@@ -27,7 +27,11 @@ Create a simple responsive single page application on_______ (include navigation
 
 
 4:00-4:15pm Homework review
+
 4:00-4:15pm What is RWD, discuss relevant work on RWD
+
 4:15-5:30pm Lecture + Live Code
+
 5:30-5:50pm Troubleshoot Q/A
+
 5:50-6:00pm Homework assignment

@@ -1,51 +1,27 @@
-# Images!
-## Types of Image
-* JPEG: Joint Photographic Experts Group
-* PNG: Portable Netword Graphics
-* SVG: Scalable Vector Graphics
-* GIF: Graphics Interchange Format
-* Video: MP4 format (MPEG)
+## Bootcamp Web 2019
+## Day 4: CSS Basics
+---
 
-## Image Resolution
-* Image resolution **only** dictates the size of the image when it is printed.
-* Image file size is dictated by the pixel dimensions of the image.
-* SVG files do not suffer from the scaling issues associated with JPEG, GIF, MP4 formats.
+#### Topics covered:
 
-## Embedding Images in HTML v.s. CSS
-* html image sytnax
-* src and alt tags
-* css background image, repeat, position.
+* Review Homework 
+* Introduction to CSS 
+* Box-model, introduction to different units, positioning 
+* In class exercise of styling yesterdays story 
 
-## CSS for Images
-* border radius
-* thumbnail
-* responsive images
-* centering images
-* opacity
-* image filters
-* object fit
+---
+#### Activity:
+* Slide: TBD
+* Start to style the story they created yesterday 
+---
 
-## File Structure (assets folder)
-* linking images in another folder
-* linking to images on another server
+#### Reading or Tutorial:
 
+* https://www.w3schools.com/css/
+* https://www.codecademy.com/learn/learn-css
+* https://developer.mozilla.org/en-US/docs/Web/CSS
+* https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
+---
+#### Homework:
 
-## Icons
-* Icon Typefaces
-
-
-## Canvas
-* If time allows
-
-## Activity
-#### Students embed at least one image hosted locally, and one image hosted on another server. Options to use video, and sound.
-
-## Homework
-#### Students create a collage using netart as inspiration for what this collage can be.
-
-## Reading/Tutorials
-* https://www.w3schools.com/html/html_images.asp
-* https://www.w3schools.com/css/css_background.asp
-* https://www.w3schools.com/css/css3_images.asp
-* https://www.w3schools.com/css/css3_object-fit.asp
-
+Style story you created yesterday 

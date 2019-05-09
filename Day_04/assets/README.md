@@ -1,1 +1,1 @@
-Your assets are contained in this folder.
+Your media assets are contained in this folder.

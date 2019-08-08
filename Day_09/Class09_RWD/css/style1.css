@@ -1,0 +1,96 @@
+
+body{
+	text-align: center;
+}
+
+.image1{
+	width: 100%;
+	height: 100%;
+}
+
+
+
+.section1{
+	width: 49.5%;
+	height: inherit;
+	border: 1px solid black;
+	float: left;
+}
+
+.section2{
+	width: 49.5%;
+	height: inherit;
+	border: 1px solid black;
+	float: right;
+}
+
+/*But, we see the resolution of the images gets destroyed*/
+
+
+/* MEDIA QUERIES */
+/*@media screen and (min-width: 500px) and (min-device-width: 500px) {
+	body{
+		background-color: blue;
+		font-size: 4em;
+	}
+}*/
+
+/* tablet */
+@media screen and (min-width: 500px){
+	body{
+		background-color: orange;
+		font-size: 4.5em;
+	}
+	.image1{
+	width: 50%;
+	height: 50%;
+	}
+
+	.block1{
+	width: 75%;
+	height: auto;
+	border: 2px double black;
+	}
+}
+
+/* desktop */
+@media screen and (min-width: 1050px) {
+	body{
+		background-color: crimson;
+		font-size: 5em;
+	}
+	.image1{
+	width: 50%;
+	height: 50%;
+	}
+
+	.block1{
+	width: 100%;
+	height: auto;
+	border: 2px double black;
+	}
+}
+
+/* FOR MOBILE DEVICES*/
+/* Source for different devices http://cssmediaqueries.com/target/ */
+@media screen and (max-device-width: 500px) and (orientation: portrait){
+	body{
+		background-color: yellow;
+		color: black;
+		font-size: 4em;
+	}
+
+	.block1{
+	width: 50%;
+	height: auto;
+	border: 2px double black;
+	}
+}
+
+/* seems to be a difference between Android and iOS, device-width and device-height changes with orientation*/
+/*@media screen and (max-device-width: 500px) and (orientation: landscape), screen and (max-device-height: 500px) and (orientation: landscape){
+	body{
+		background-color: limegreen;
+		font-size: 4em;
+	}
+}*/
